@@ -1,0 +1,19 @@
+.button {
+    background: linear-gradient(90deg, #428cd1, #1E96FC);
+    border: 0;
+    border-radius: .75rem;
+    padding: .5rem 2rem;
+    width: 100%;
+    color: #fff;
+    font-size: 1rem;
+    transition-duration: 300ms;
+}
+
+.button:hover {
+    filter: brightness(1.1);
+    cursor: pointer;
+}
+
+.button:active {
+    filter: brightness(1.2);
+}

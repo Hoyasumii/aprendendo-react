@@ -1,0 +1,17 @@
+.button {
+    background-color: #0f0f0f;
+    padding: .5rem 1rem;
+    border-radius: .3rem;
+    border: none;
+    color: #eee;
+    transition-duration: 300ms;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #1f1f1f;
+}
+
+.button:active {
+    background-color: #2e2e2e;
+}

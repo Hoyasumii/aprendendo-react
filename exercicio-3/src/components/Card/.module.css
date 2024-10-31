@@ -1,0 +1,22 @@
+.card {
+    background-color: #fff;
+    border-radius: 1rem;
+    width: 30vw;
+    margin: 1rem auto;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.15);
+    padding: 1rem 0;
+}
+
+.card img {
+    padding: .5rem;
+}
+
+.card p {
+    margin: 0 3rem;
+    text-align: justify;
+}
